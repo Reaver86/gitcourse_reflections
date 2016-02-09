@@ -1,1 +1,2 @@
-
+If you want to share your work or even want to work on it together with others, you'll have to push it to a remote repository.
+Otherwise a local repo is better.
