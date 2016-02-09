@@ -1,0 +1,16 @@
+As long as the number of changed items isn't too high,
+it is much faster to find the bug, since it acts as a filter.
+
+You can change things more liberately, since you can always go back quickly to the last work version.
+
+With code, automatic saves will probably get you a lot of versions that don't even commit.
+You can't add meaning to a commit, because you can't name it thus going back into your
+commit history will take much more time to actually find what you're looking for.
+
+Git is made for committing code and thus allowing to save multiple files in one commit makes sense.
+Google Docs probably won't have any interactions between files, so this won't be necessary.
+
+You can use git log to find a commit you're interested in based on the commit message
+and then see what was changed by using git diff with that id and the id below it.
+
+You can always go back, so of course you don't have to be afraid changing things.
