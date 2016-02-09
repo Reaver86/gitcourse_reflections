@@ -1,3 +1,12 @@
 You need to initialize a repository if you want to commit them.
 
 Thanks to the staging area you can bundle up files to one meaningful commit.
+
+Add everything needed for a logical change to the staging area and then commit altogether.
+
+Branches can be useful, if you want to make experimental changes without affecting the main program (master branch).
+
+Diagrams help you see where you're working on right now, what other people have been doing on the master branch
+in the mean time and what commits are included in certain branches.
+
+Merging two branches combines them to essentially one branch, including changes made in one branch into the other branch.
